@@ -14,7 +14,12 @@
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=hamzapro305&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/hamzapro305)
 
-<p align="left"> <a href="https://twitter.com/kishan_rajput23" target="blank"><img src="https://img.shields.io/twitter/follow/kishan_rajput23?logo=twitter&style=for-the-badge" alt="kishan_rajput23" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kishan_rajput23" target="blank"><img src="https://img.shields.io/twitter/follow/kishan_rajput23?logo=twitter&style=for-the-badge" alt="hamzapro305" /></a> </p>
+
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+</a>
+
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -45,9 +50,9 @@
 
 <p align="center">
   <a>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanrajput23&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+    <img height="150" width="150" src="https://github.com/kishanrajput23/hamzapro305/blob/main/images/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzapro305&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/hamzapro305/blob/main/images/right.png">
   </a>
 </p>
 
