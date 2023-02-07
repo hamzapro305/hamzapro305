@@ -2,8 +2,7 @@
 
 <!-- ![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png) -->
 
-<h3 align="center">I'm Hamza🙋‍♂️, a full time employee in Wipro with a great passion for programming, a tech enthusiast with passion to solve problems and to make things.
-I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
+<h3 align="center">I'm Hamza🙋‍♂️, a full time employee in Axecorp</h3>
 
 
 <p align="center">
@@ -13,7 +12,7 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 </p>
 
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=hamzapro305&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/kishanrajput23)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=hamzapro305&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/hamzapro305)
 
 <!-- <p align="left"> <a href="https://twitter.com/kishan_rajput23" target="blank"><img src="https://img.shields.io/twitter/follow/kishan_rajput23?logo=twitter&style=for-the-badge" alt="kishan_rajput23" /></a> </p> -->
 
