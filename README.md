@@ -14,7 +14,7 @@
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=hamzapro305&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/hamzapro305)
 
-<!-- <p align="left"> <a href="https://twitter.com/kishan_rajput23" target="blank"><img src="https://img.shields.io/twitter/follow/kishan_rajput23?logo=twitter&style=for-the-badge" alt="kishan_rajput23" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/kishan_rajput23" target="blank"><img src="https://img.shields.io/twitter/follow/kishan_rajput23?logo=twitter&style=for-the-badge" alt="kishan_rajput23" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
