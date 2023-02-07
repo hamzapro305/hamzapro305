@@ -1,6 +1,6 @@
 <h1 align="center">Hello Coders!! 👋</h1>
 
-<!-- ![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png) -->
+![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
 
 <h3 align="center">I'm Hamza🙋‍♂️, a full time employee in Axecorp</h3>
 
