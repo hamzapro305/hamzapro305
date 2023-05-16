@@ -12,7 +12,6 @@
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=hamzapro305&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/hamzapro305)
 
-<!-- <p align="left"> <a href="https://twitter.com/kishan_rajput23" target="blank"><img src="https://img.shields.io/twitter/follow/kishan_rajput23?logo=twitter&style=for-the-badge" alt="hamzapro305" /></a> </p> -->
 
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -43,17 +42,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kishanrajput23">
+  <a href="https://github.com/hamzapro305">
     <img align="center" width="340px" src="https://github-readme-stats.vercel.app/api?username=hamzapro305&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/kishanrajput23">
+  <a href="https://github.com/hamzapro305">
     <img align="center" width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzapro305&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 
 <div align="center">
-
-<!-- [![@hamzapro305's Holopin board](https://holopin.me/hamzapro305)](https://holopin.io/@hamzapro305) -->
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
